@@ -1,0 +1,19 @@
+.welcome {
+  color: rgb(255, 126, 126);
+  font-size: 1.35em;
+  font-weight: 700;
+}
+
+.intro {
+  color: #eee;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.guidance {
+  color: rgb(255, 126, 126);
+  font-size: 1.1em;
+  font-weight: 400;
+  margin-block-start: 0.2em;
+  margin-block-end: 0.5em;
+}

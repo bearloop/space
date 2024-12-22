@@ -1,0 +1,26 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap"); */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Monoton:wght@400;700&display=swap"); */
+/* @import url("https://fonts.googleapis.com/css2?family=VT323&display=swap"); */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap"); */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: monospace;
+  font-size: 11pt;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  width: 95vw;
+}
+
+body {
+  background-color: #21201e;
+  color: #eee;
+}

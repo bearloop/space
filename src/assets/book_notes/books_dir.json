@@ -1,0 +1,9 @@
+{
+    "Books": [
+        {"id":"1", "title":"Shoe Dog", "json": "shoe_dog"},
+        {"id":"2", "title":"How to make friends and influence people", "json": "how_to_make_friends"},
+        {"id":"3", "title":"Command and control", "json": "command_and_control"},
+        {"id":"4", "title":"Innovation stack", "json": "innovation_stack"},
+        {"id":"5", "title":"How to lie with statistics", "json": "how_to_lie_stats"}
+    ]
+}

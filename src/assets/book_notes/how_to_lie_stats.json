@@ -1,0 +1,40 @@
+{
+    "Title": "How to lie with statistics",
+    "Author": "Darrel Huff",
+    "Year": "1954",
+    "Notes": [
+        {"text":""}
+    ],
+    "Quotes": [
+        {"text": "How to lie with statistics: 1. use samples with built-in biases, 2. choose the 'average' you like the most, 3. select a small enough sample, 4. do not use standard errors, 5. use a graph or a picture, 6. confuse people with correlation by implying it is causation, 7. statisticulate (manipulate with statistics)."},
+        {"text": "The result of a sampling study is no better than the sample it is based on."},
+        {"text": "To be worth much, a report based on sampling must use a representative sample, which is one from which every source of bias has been removed."},
+        {"text": "Even if you can't find a source of demonstrable bias, allow yourself some degree of scepticism about the result as long as there is a possibility of bias somewhere."},
+        {"text": "The basic sample is the kind called 'random', which is selected by pure chance from the 'universe' or 'population'. The test of the random sample is: Does every name or thing in the whole group have an equal chance to be in the sample?"},
+        {"text": "Obtaining a random sample is an expensive undertaking. The next best thing is stratified random sampling, where you divide the universe into several groups in proportion to their known prevalence. Right there your trouble begins, as your information about prevalence may not be correct."},
+        {"text": "The operation of a poll comes down in the end to a running battle against sources of bias. Alas, the battle is never won."},
+        {"text": "No conclusion that 67% of the British people are against something should be read without the question: 67% of which British people."},
+        {"text": "It is not necessary that a poll is rigged, that is deliberately twisted to give a false impression, rather the sample may be biased."},
+        {"text": "The word average has a very loose meaning and is commonly used, sometimes in innocence but often in guilt, by fellows wishing to influence public opinion or sell advertising space."},
+        {"text": "The average can be the mean, median or mode. One kind of average is as good as another for describing the heights of men, but not for describing their pocketbooks. That is, it all depends on the underlying distribution of whether the average used is appropriate."},
+        {"text": "Well biased samples can produce almost any result, so can properly random ones if they are small enought and you try enough of them."},
+        {"text": "Toss a penny enough times and you'll see that there are a few consecutive tosses with the same result. This is the magic of a small sample size."},
+        {"text": "If you measure something N times and on average you were of by X%, then this is your probable error. Standard error is a similar measure that takes into account not the average (50%) rather two-thirds of the time."},
+        {"text": "A difference is a difference only if it makes a difference."},
+        {"text": "When numbers in tabular form are taboo and words will not do the work well, there is one answer left: Draw a picture."},
+        {"text": "If you can't prove what you want to prove, demonstrate something else and pretend that they are the same thing. Almost no one will notice the difference."},
+        {"text": "An association between two factors is not proof that one has caused the other."},
+        {"text": "Assumptions of causality are not always so easy to spot, especially when the relationship seems to make a lot of sense or when it pleases a popular prejudice."},
+        {"text": "A common kind of co-variation is one in which the relationship is real but it is not possible to be sure which of the variables is the cause and which the effect."},
+        {"text": "A tricky situation is when neither of the variables has any effect at all on the other, yet there is a real correlation. And of course another thing to watch out for is a conclusion in which a correlation has been inferred to continue beyond the data with which it has been demonstrated."},
+        {"text": "Physical relationships often have the kindness to produce perfect correlations, but figures from business or sociology or medicine seldom work out so neatly."},
+        {"text": "To statisticulate, use maps, decimals, percentiles."},
+        {"text": "How to talk back to statistics: ask (i) who says so, (ii) how does he know, (iii) what is missing, (iv) did somebody change the subject, (v) does it make sense?"},
+        {"text": "On (i), people might have a bias or an incentive to say something. Fair enough, now you know."},
+        {"text": "On (ii), do they use a big enough sample size or is their sample biased? You cannot, as a casual reader, apply tests of significance or come to exact conclusions as to the adequacy of a sample. On a good many of the things you see reported, however, you will be able to tell at a -good long- glance that there were not enough cases to convince any reasoning person of anything."},
+        {"text": "On (iii), the absence of a samples figure is enough to throw suspicion. Also if a correlation is given without a measure of reliability, or in the case of an index the base is missing."},
+        {"text": "On (iv), watch out for correlation being thrown at you as causation."},
+        {"text": "On (v), many a statistic is false on its face. It gets by only because the magic of numbers brings about a suspension of common sense. Impressively, precise figures also contradict common sense."},
+        {"text": "Extrapolations are useful, while the trend-to-now is a fact, the future trend represents no more than an educated guess. Implicit in it is everything else being equal and present trends continuing. And somehow everything else refuses to remain, equal, else life would be dull indeed."}
+    ]
+}
