@@ -1,0 +1,42 @@
+{
+    "Title": "The man who solved the markets",
+    "Author": "Gregory Zuckerman",
+    "Year": "2019",
+    "Notes": [
+        {"text":""}
+    ],
+    "Quotes": [
+        {"text": "The lesson is: Do what you like in life, not what you feel you should do."},
+        {"text": "Jim understood from a young age that money is power and he did not want other people to have power over him."},
+        {"text": "I have no interest in business, which is not to say I have no interest in money."},
+        {"text": "Bad ideas is good, good ideas is terrific, no ideas is terrible. Lenny Baum."},
+        {"text": "Markov chains are sequences of events in which the probability of what happens next depends only to the current state, not past events. In a Markov chain, it is impossible to predict future steps with certainty, yet one can observe the chain to make educated guesses about possible outcomes."},
+        {"text": "A hidden Markov process is one in which the chain of events is governed by unknown, underlying parameters or variables. One sees the results of the chain but not the states that help explain the progression of the chain. The Baum-Welch algorithm provided a way to estimate probabilities and parameters within these sequences with little more information than the output of the processes."},
+        {"text": "Truth is much too complicated to allow for anything but approximations. John von Neumann."},
+        {"text": "I strongly believe, for all babies and a significant number of grownups, curiosity is a bigger motivator than money. Elwyn Berlekamp."},
+        {"text": "Scrutinise historic price information to discover sequences that might repeat, under the assumption that invesotrs will exhibit similar behaviour in the future."},
+        {"text": "Buying and selling infrequently magnifies the consequence of each move. Mess up a couple of times and your portfolio may be doomed. Make a lot of trades and each individual move is less important reducing the portfolio's overall risk."},
+        {"text": "Using intra-day data, Laufer started splitting the day in half, then into quarters, eventually deciding five-minute bars were the ideal way to carve things up, identifying new trends, oddities and other nonrandom trading effects."},
+        {"text": "How do we pull the trigger? Laufer began developing a computer program to identify optimal trades throughout the day, adapting on its own along the way and relying on real-time analysis to adjust the fund's mix of holdings given the probabilities of future market moves, an early form of machine learning."},
+        {"text": "Simons - contrary to EMH - believed that investors are prone to cognitive biases, the kinds that lead to panics, bubbles, booms and busts. For instance, loss aversion (feeling the pain from losses, more than feeling the pleasure from gains), anchoring (initial information skews judgement) and the endowment effect (assigning excessive value to what's already in the portfolio)."},
+        {"text": "No one ever made a decision because of a number. The need a story. Daniel Kahneman."},
+        {"text": "They originally used C, but converted to C++ due to Mangerman as he wanted to become the most indispensable person into the company."},
+        {"text": "Inputs are trading costs, leverage, risk parameters and other limitations and requirements. Brown and Mercer created an adaptive system capable of learning and adjusting on its own for the equities side, much like Laufer's system for futures."},
+        {"text": "All staffers enjoyed full access to each line of the source code underpinning the moneymaking algoriths on the firm's internal network. Anyone could make experimental modification to improve the trading system. Simons hoped his reseacrhers would swap ideas, rather than embrace private projects."},
+        {"text": "Peer pressure became a crucial motivational tool. You had to contribute in whatever way you can as bonuses depended on how well the fund performs."},
+        {"text": "Chemistry is important."},
+        {"text": "Signals are anomalous patterns in historic pricing data, that are statistically significant, consistent over time, nonrandom and sometimes not easily explained."},
+        {"text": "Never place too much trust in trading models, all formulas are fallible. LCTM's basic error was believing its models were truth. We never believed our models reflected reality - just some aspects of reality."},
+        {"text": "Simons said though trust the models, we have to let it ride - the turbulent market - we can't panic. Simon emphasized the importance of not overriding the trading system, but in a market crisis, he tended to pull back on the reliance on certain signals, to the chagrin of researchers who didn't believe in ever adjusting their programs."},
+        {"text": "Back in the early 2000s, the Medallion fund's systems read, analysed and used a terabyte of data annually. There's no data like more data. Mercer."},
+        {"text": "Obvious (or not?): combining signals from various markets and data sources portfolio returns smoothen and have lower volatility."},
+        {"text": "The very short term might be easier to predict, given that there are usually more data points you can utilise to train and validate ML or simple time series models or even systematic rules."},
+        {"text": "While there was some serious market panic: our job is to survive, if we're wrong we can always add positions later. Simons."},
+        {"text": "When the strategy's losses are so unusual e.g. 20 standard deviations from the average, then there's a serious likelihood this thing won't mean-revert."},
+        {"text": "I'm not sure if we're the best at all aspects of trading but we're the best at estimating the cost of a trade. Simons."},
+        {"text": "Renaissance used both trend and mean-reverting signals. They used a mixture of complex signals rather than simpler pairs trades. They were right a little bit more than half the time, but did thousands of trades. The typical holding period was from 1 to 2 days, up to 1 to 2 weeks."},
+        {"text": "There is no individual bet we make that can be explained by saying we think a stock is better than another. Every bet is a function of all the other bets, our risk profile and what we expect to do in the near or distant future. It's a big complex optimisation based on the premise that we predict the future well enough and we understand risk, cost impact and market structure to leverage the hell out of it."},
+        {"text": "To preserve a trading signal, instead of spreading its buying or selling throughout the hour, they did it in unpredictable ways."},
+        {"text": "Professional performance and political views are two separate things. We're all disappointed, the best thing we can do now is to work. Simons."}       
+    ]
+}
