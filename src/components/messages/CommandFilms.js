@@ -175,15 +175,22 @@ const BasicGrid = () => {
             sx={{
               '& .MuiPaginationItem-root': {
                 color: '#fff', // Change color of the pagination item text
-                // backgroundColor: '#f0f0f0'
+                '&:hover': {
+                  backgroundColor: 'rgba(0, 0, 0, 0)', // light grey hover effect
+                },
               },
               '& .MuiPaginationItem-root.Mui-selected': {
                 backgroundColor: 'rgb(19, 169, 255)', // Change background color of selected page
                 color: '#000', // Text color of selected page
+                '&:hover': {
+                  backgroundColor: 'rgb(19, 169, 255)', // Background when selected AND hovered
+                },
               },
+              
               '& .MuiPaginationItem-root:hover': {
-                backgroundColor: 'rgb(19, 169, 255)', // Background color when hovering over the page item
+                backgroundColor: 'rgb(231, 175, 62)', // Background color when hovering over the page item
                 color: '#000', // Text color when hovering over the page item
+
               },
               '& .MuiPaginationItem-root.MuiPaginationItem-ellipsis': {
                 backgroundColor: 'transparent', // No background color for ellipsis
