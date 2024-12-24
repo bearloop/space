@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import "./Cursor.css";
 import Error from "./messages/Error";
 import ComHelp from "./messages/CommandHelp";
-import ComOOO from "./messages/CommandOOO";
+import ComLinks from "./messages/CommandLinks";
 import ComFilms from "./messages/CommandFilms";
 import ComBooks from "./messages/CommandBooks";
 import ComWhoAmI from "./messages/CommandWhoAmI";
-import ComWhyCS from "./messages/CommandWhyStudyCS";
+import ComPhotos from "./messages/CommandPhotos";
 
 const Cursor = (props) => {
   const [enteredValue, setEnteredValue] = useState([]);
@@ -33,12 +33,12 @@ const Cursor = (props) => {
       } else if (enteredValue[0] === "books") {
         labelValue = "valid";
         returnedValue = <ComBooks id={(enteredValue.length>1 ? enteredValue[1] : "0")}/>
-      } else if (enteredValue[0] === "why") {
+      } else if (enteredValue[0] === "shots") {
         labelValue = "valid";
-        returnedValue = <ComWhyCS />;
-      } else if (enteredValue[0] === "ooo") {
+        returnedValue = <ComPhotos />;
+      } else if (enteredValue[0] === "links") {
         labelValue = "valid";
-        returnedValue = <ComOOO />;
+        returnedValue = <ComLinks />;
       } else if (enteredValue[0] === "clear") {
         labelValue = "valid";
         returnedValue = "Clear";

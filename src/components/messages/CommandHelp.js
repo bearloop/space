@@ -7,19 +7,19 @@ const ComHelp = () => {
       <div className="command-valid">user@home ~ % help</div>
       <br/>
       <div>
-        <kdb>whoami</kdb> -- Get to know me.
+        <kdb>whoami</kdb> -- About me.
       </div>
       <div>
-        <kdb>books</kdb> -- Checkout book notes & ideas.
+        <kdb>books</kdb> -- Book notes, quotes & ideas.
       </div>
       <div>
-        <kdb>films</kdb> -- Checkout film ratings.
+        <kdb>films</kdb> -- Films I consider interesting.
       </div>
       <div>
-        <kdb>why</kdb> -- Why study CS online.
+        <kdb>shots</kdb> -- Checkout my photography blogs.
       </div>
       <div>
-        <kdb>ooo</kdb> -- Out of office hours.
+        <kdb>links</kdb> -- Links to contact me.
       </div>
       <div>
         <kdb>clear</kdb> -- Clear command history.
