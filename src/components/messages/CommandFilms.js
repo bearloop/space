@@ -12,11 +12,11 @@ import Pagination from '@mui/material/Pagination';
 import StarIcon from '@mui/icons-material/Star';
 
 const introMsg = "🍿 Ratings are purely subjective, based on how I perceived each film. In fact,\
-they say more about myself than each rated film. Also, having the same rating \
-doesn't suggest two movies are of equal standing. Lastly, this list excludes \
-blockbuster movies I very much enjoyed. I have watched a lot of movies and most are \
-not on this list. If it's on this list it means I've thought about or enjoyed the film \
-enough to add it (or that I would like to watch it eventually)."
+they say more about myself than each rated film. Having the same rating \
+doesn't suggest two movies are of equal standing. In addition, this list excludes \
+blockbuster action movies which I tend to appreciate. I have watched a lot of movies and most are \
+not on this list. If it's on the list it means I've thought about it or enjoyed the film \
+enough in order to add it (or that I plan to watch it in the future)."
 
 const SimpleModal = (props) => {
   const notes = props.notes
@@ -140,6 +140,9 @@ const SimpleGridItem = (props) => {
 const BasicGrid = () => {
   const films = require('../../assets/films/films.json')
   const filmsContent = Object.values(films)
+  const watchedFilms = filmsContent.filter((data) => data['Rating 5-10'] !== null);
+  const notWatchedYet = filmsContent.filter((data) => data['Rating 5-10'] === null);
+  console.log(watchedFilms.length, 'length')
 
   const [page, setPage] = useState(1); // Current page
   const handleChange = (event, value) => {
@@ -155,6 +158,8 @@ const BasicGrid = () => {
   return (
     <>
       <div>{introMsg}</div>
+      <br/>
+      <div>{'Total watched: ' + watchedFilms.length + ' | Not yet watched: ' + notWatchedYet.length + ' | Estimated time: ' + Math.round(notWatchedYet.length/12) + ' years'}</div>
       <Box sx={{ flexGrow: 1, marginTop: "2%" }}>
         <Grid container spacing={3}>
           {visibleItems.map((film) => (
