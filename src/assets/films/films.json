@@ -1064,7 +1064,7 @@
         "Poster": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "Rating 1-5": "Rating: 4.05 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0081398/",
-        "Director": "Martin Scorcese",
+        "Director": "Scorsese Martin",
         "Notes": "Robert De Niro tour de force as a problematic but charesmatic fighter.",
         "Year": "1980",
         "Film": "Raging Bull"
@@ -1159,16 +1159,6 @@
         "Year": "1976",
         "Film": "The Last Tycoon"
     },
-    "1d5dae19-1930-4e9e-9061-912c2acfaa85": {
-        "Rating 5-10": null,
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWQyZjItNzU4OS00YTg4LThiYzQtNjYyNjhhM2VmOTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Not yet watched",
-        "IMDB Link": "https://www.imdb.com/title/tt0073650/",
-        "Director": "Pasolini Pier Paolo",
-        "Notes": "Not available",
-        "Year": "1975",
-        "Film": "Salo"
-    },
     "28457c4b-39d1-44dc-ac90-85c6cbb005dc": {
         "Rating 5-10": null,
         "Poster": "https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1195,7 +1185,7 @@
         "Rating 1-5": "Rating: 3.85 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0073858/",
         "Director": "Schlondorff Volker",
-        "Notes": "A woman cannot be free according to society's expectations. Hypocricy and bureaucracy are powerful tools. Still C. Blum manages to handle the whole situation with such grace. At least up to the point she kills that awful \"reporter\".",
+        "Notes": "A woman cannot be free. A hitman cannot be free in this kind of society that seeks to conform the individual. Hypocricy and bureaucracy are a powerful tools. Still she manages to handle the whole situation with grace, up to the point she kills the \"reporter\".",
         "Year": "1975",
         "Film": "The Lost Honor of Catharina Blum"
     },
