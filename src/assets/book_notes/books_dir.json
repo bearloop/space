@@ -8,7 +8,9 @@
         {"id":"6", "title":"The man who solved the markets", "json": "man_who_solved_markets"},
         {"id":"7", "title":"Zero to one", "json": "zero_to_one"},
         {"id":"8", "title":"Switch", "json": "switch"},
-        {"id":"9", "title":"Thinking in bets", "json": "thinking_in_bets"}
+        {"id":"9", "title":"Thinking in bets", "json": "thinking_in_bets"},
+        {"id":"10", "title":"7 Lessons and a half about the brain", "json": "seven_lessons_brain"},
+        {"id":"11", "title":"Thinking in Systems", "json": "thinking_in_systems"}
 
     ]
 }

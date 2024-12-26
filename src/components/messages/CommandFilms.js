@@ -11,8 +11,8 @@ import CardContent from '@mui/material/CardContent';
 import Pagination from '@mui/material/Pagination';
 import StarIcon from '@mui/icons-material/Star';
 
-const introMsg = "🍿 Ratings are purely subjective, based on how I perceived each film. In fact,\
-they say more about myself than each rated film. Having the same rating \
+const introMsg = "🍿 Ratings are purely subjective, based on how I perceived each film. In fact, \
+they likely say more about myself than each rated film. Having the same rating \
 doesn't suggest two movies are of equal standing. In addition, this list excludes \
 blockbuster action movies which I tend to appreciate. I have watched a lot of movies and most are \
 not on this list. If it's on the list it means I've thought about it or enjoyed the film \
@@ -159,7 +159,7 @@ const BasicGrid = () => {
     <>
       <div>{introMsg}</div>
       <br/>
-      <div>{'Total watched: ' + watchedFilms.length + ' | Not yet watched: ' + notWatchedYet.length + ' | Estimated time: ' + Math.round(notWatchedYet.length/12) + ' years'}</div>
+      <div>{'Total watched: ' + watchedFilms.length + ' | Not yet watched: ' + notWatchedYet.length + ' | Estimated completion: ' + Math.round(notWatchedYet.length/12) + ' years'}</div>
       <Box sx={{ flexGrow: 1, marginTop: "2%" }}>
         <Grid container spacing={3}>
           {visibleItems.map((film) => (
