@@ -10,7 +10,11 @@
         {"id":"8", "title":"Switch", "json": "switch"},
         {"id":"9", "title":"Thinking in bets", "json": "thinking_in_bets"},
         {"id":"10", "title":"7 Lessons and a half about the brain", "json": "seven_lessons_brain"},
-        {"id":"11", "title":"Thinking in Systems", "json": "thinking_in_systems"}
+        {"id":"11", "title":"Thinking in Systems", "json": "thinking_in_systems"},
+        {"id":"12", "title":"The Chimp Paradox", "json": "chimp_paradox"},
+        {"id":"13", "title":"Manias, panics and crashes", "json": "manias_panics_crashes"},
+        {"id":"14", "title":"Against the gods, the remarkable history of risk", "json": "risk_against_the_gods"}
 
     ]
 }
+
