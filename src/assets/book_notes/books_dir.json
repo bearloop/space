@@ -13,7 +13,9 @@
         {"id":"11", "title":"Thinking in Systems", "json": "thinking_in_systems"},
         {"id":"12", "title":"The Chimp Paradox", "json": "chimp_paradox"},
         {"id":"13", "title":"Manias, panics and crashes", "json": "manias_panics_crashes"},
-        {"id":"14", "title":"Against the gods, the remarkable history of risk", "json": "risk_against_the_gods"}
+        {"id":"14", "title":"Against the gods, the remarkable history of risk", "json": "risk_against_the_gods"},
+        {"id":"15", "title":"Irrational exuberance", "json": "irrational_exuberance"},
+        {"id":"16", "title":"A random walk down wall street", "json": "random_walk_wall_street"}
 
     ]
 }
