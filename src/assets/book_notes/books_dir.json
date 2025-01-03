@@ -15,7 +15,10 @@
         {"id":"13", "title":"Manias, panics and crashes", "json": "manias_panics_crashes"},
         {"id":"14", "title":"Against the gods, the remarkable history of risk", "json": "risk_against_the_gods"},
         {"id":"15", "title":"Irrational exuberance", "json": "irrational_exuberance"},
-        {"id":"16", "title":"A random walk down wall street", "json": "random_walk_wall_street"}
+        {"id":"16", "title":"A random walk down wall street", "json": "random_walk_wall_street"},
+        {"id":"17", "title":"Algorithms to live by", "json": "algorithms_to_liveby"},
+        {"id":"18", "title":"Thinking strategically", "json": "thinking_strategically"},
+        {"id":"19", "title":"Sapiens", "json": "sapiens"}
 
     ]
 }
