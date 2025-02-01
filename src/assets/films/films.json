@@ -590,9 +590,9 @@
         "Film": "Payback"
     },
     "138a7c26-82ac-435e-802c-4b551359e642": {
-        "Rating 5-10": 7,
+        "Rating 5-10": 6,
         "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyZjBlZWMtMWYyNS00Yjc1LWE1NjktMGZlNzdjZTdjYWQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Rating: 3.5 / 5.0",
+        "Rating 1-5": "Rating: 3 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0120533/",
         "Director": "Allen Woody",
         "Notes": "Self-referencing.",
@@ -610,12 +610,12 @@
         "Film": "The Celebration"
     },
     "24979849-0291-4c50-a3e9-e242b3e4e74f": {
-        "Rating 5-10": null,
+        "Rating 5-10": 8,
         "Poster": "https://m.media-amazon.com/images/M/MV5BZWExZjliYTgtM2U2Yi00MTU5LWFmOTAtNThkZDE1MzMxYWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Not yet watched",
+        "Rating 1-5": "Rating: 4 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0120265/",
         "Director": "Kiarostami Abbas",
-        "Notes": "Not available",
+        "Notes": "The point is go and find your taste of cherry in order to carry on living. Otherwise, lights out.",
         "Year": "1997",
         "Film": "Taste of Cherry"
     },
@@ -690,9 +690,9 @@
         "Film": "Kicking and Screaming"
     },
     "0d8ebb8d-afd3-465c-bc69-7cc7d261c028": {
-        "Rating 5-10": 7.7,
+        "Rating 5-10": 7.6,
         "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Rating: 3.85 / 5.0",
+        "Rating 1-5": "Rating: 3.8 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0109424/",
         "Director": "Kar Wai Wong",
         "Notes": "Learning to cope with loss. Heartbreaks are also loss, so coping with heartbreaks is what this film is about. Irrational behavior during a loss is pretty damn rational. But a single memory can change everything: \"If memories could be canned, would they also have expiry dates? If so, I hope they last for centuries\".",
@@ -740,9 +740,9 @@
         "Film": "Trois Couleurs: Blue"
     },
     "8ff1d889-15fc-45f7-b7a9-4b7aa519ac8f": {
-        "Rating 5-10": 7.9,
+        "Rating 5-10": 7.8,
         "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Rating: 3.95 / 5.0",
+        "Rating 1-5": "Rating: 3.9 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0108052/",
         "Director": "Steven Spielberg",
         "Notes": "No words for this story",
@@ -980,12 +980,12 @@
         "Film": "The Element of Crime"
     },
     "674cec0c-70a6-4c4b-837d-4934bb71d2e7": {
-        "Rating 5-10": null,
+        "Rating 5-10": 7.9,
         "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "Rating 1-5": "Not yet watched",
+        "Rating 1-5": "Rating: 3.95 / 5.0",
         "IMDB Link": "https://www.imdb.com/title/tt0087884/",
         "Director": "Wenders Wim",
-        "Notes": "Not available",
+        "Notes": "A beautiful film. It\u2019s about broken dreams and situations that are simply impossible to work out, because of reasons (desires, wrong timing, egos). Sometimes, it\u2019s everyone\u2019s and nobody\u2019s fault at the same time.",
         "Year": "1984",
         "Film": "Paris Texas"
     },
