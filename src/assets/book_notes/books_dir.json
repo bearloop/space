@@ -18,7 +18,8 @@
         {"id":"16", "title":"A random walk down Wall Street", "json": "random_walk_wall_street"},
         {"id":"17", "title":"Algorithms to live by", "json": "algorithms_to_liveby"},
         {"id":"18", "title":"Thinking strategically", "json": "thinking_strategically"},
-        {"id":"19", "title":"Sapiens", "json": "sapiens"}
+        {"id":"19", "title":"Chip War", "json": "chip_war"},
+        {"id":"20", "title":"Sapiens", "json": "sapiens"}
 
     ]
 }
